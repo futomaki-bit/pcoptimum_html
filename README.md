@@ -11,5 +11,8 @@ Link: [futomakiyoin.github.io/pcoptimum_html/](https://futomakiyoin.github.io/pc
 ![demo.png](demo.png)
 
 **Goal:**
-- Add json content to webpage ✅
+- Add json content to webpage ❎
 - Add search bar ❎
+
+**Issue:**
+- Cannot find a way to fetch json on GitHub Pages
