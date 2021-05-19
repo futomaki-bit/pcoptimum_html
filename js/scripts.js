@@ -15,7 +15,7 @@ function appendData(data) {
   for (var i = 0; i < data.length; i++) {
     var div = document.createElement("div");
     div.innerHTML =
-      '<div class="container mb-2 mw-50r"><div class="card"><div class="card-body"><p class="card-title fw-bold text-red">' +
+      '<div class="mb-2"><div class="card" style="height:7rem;"><div class="card-body"><p class="card-title fw-bold text-orange">' +
       data[i].Get +
       ' points</p><p class="card-text"> For every ' +
       data[i].Buy +
