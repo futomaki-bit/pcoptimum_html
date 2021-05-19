@@ -13,4 +13,7 @@ Link: [futomakiyoin.github.io/pcoptimum_html/](https://futomakiyoin.github.io/pc
 
 **Goal:**
 - Add json content to webpage ✅
-- Add search bar ❎
+- Add search bar ✅
+
+**Issue:**
+- Bad performance
