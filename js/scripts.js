@@ -4,7 +4,7 @@ $.getJSON(
   function (data) {
     $.each(data, function (key, value) {
       $("#offers").append(
-        '<div class="mb-3"><div class="card" style="height:7rem;"><div class="card-body"><p class="card-title fw-bold text-orange">' +
+        '<div class="pt-3"><div class="card" style="height:7rem;"><div class="card-body"><p class="card-title fw-bold text-orange">' +
           value.Get +
           ' points</p><p class="card-text"> For every ' +
           value.Buy +
@@ -31,7 +31,7 @@ $(document).ready(function () {
         $.each(data, function (key, value) {
           if (value.Offers.search(expression) != -1) {
             $("#offers").append(
-              '<div class="mb-3"><div class="card" style="height:7rem;"><div class="card-body"><p class="card-title fw-bold text-orange">' +
+              '<div class="pt-3"><div class="card" style="height:7rem;"><div class="card-body"><p class="card-title fw-bold text-orange">' +
                 value.Get +
                 ' points</p><p class="card-text"> For every ' +
                 value.Buy +

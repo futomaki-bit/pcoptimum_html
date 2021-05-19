@@ -1,3 +1,20 @@
 body {
-    overflow-y: scroll;
+    overflow-y: hidden;
+}
+
+.scrollable {
+    height: 75vh;
+    overflow-y: overlay;
+}
+
+/* width */
+.scrollable::-webkit-scrollbar {
+    width: 0.5rem;
+    border: solid 3px transparent;
+}
+
+/* Handle */
+.scrollable::-webkit-scrollbar-thumb {
+    background: #50505050;
+    border-radius: 10px;
 }

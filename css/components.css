@@ -11,6 +11,20 @@
     border-top-color: #ffffffaa;
 }
 
-.mw-50r{
+.jumbotron {
+    height: 25vh;
+}
+
+.mw-50r {
     max-width: 50rem
+}
+
+h1 {
+    /* Fixed size */
+    font-size: 250%;
+}
+
+h4 {
+    /* Fixed size */
+    font-size: 150%;
 }
