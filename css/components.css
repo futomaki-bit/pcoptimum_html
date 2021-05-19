@@ -1,0 +1,16 @@
+.half-circle {
+    /* Create the circle */
+    width: 10rem;
+    height: 10rem;
+    border: 2rem solid;
+    border-radius: 50%;
+    /* Halve the circle */
+    border-bottom-color: #ffffff77;
+    border-left-color: #ffffff77;
+    border-right-color: #ffffffaa;
+    border-top-color: #ffffffaa;
+}
+
+.mw-50r{
+    max-width: 50rem
+}
