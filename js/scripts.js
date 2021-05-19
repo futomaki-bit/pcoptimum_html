@@ -1,4 +1,6 @@
-fetch("../json/offers.json")
+fetch(
+  "https://raw.githubusercontent.com/futomakiyoin/pcoptimum_html/main/json/offers.json"
+)
   .then(function (response) {
     return response.json();
   })
