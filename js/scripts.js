@@ -3,15 +3,25 @@ $.getJSON(
   "https://raw.githubusercontent.com/futomakiyoin/pcoptimum_html/main/json/offers.json",
   function (data) {
     $.each(data, function (key, value) {
-      $("#offers").append(
-        '<div class="pt-3"><div class="card" style="height:7rem;"><div class="card-body"><p class="card-title fw-bold text-orange">' +
-          value.Get +
-          ' points</p><p class="card-text"> For every ' +
-          value.Buy +
-          'spend on <span class="fw-bold">' +
-          value.Offers +
-          "</span></p></div></div></div>"
-      );
+      if (typeof value.Buy == "undefined") {
+        $("#offers").append(
+          '<div class="pt-3"><div class="card" style="height:7rem;"><div class="card-body"><p class="card-title fw-bold text-orange">' +
+            value.Get +
+            ' points</p><p class="card-text"><span class="fw-bold">' +
+            value.Offers +
+            "</span></p></div></div></div>"
+        );
+      } else {
+        $("#offers").append(
+          '<div class="pt-3"><div class="card" style="height:7rem;"><div class="card-body"><p class="card-title fw-bold text-orange">' +
+            value.Get +
+            ' points</p><p class="card-text"> For every ' +
+            value.Buy +
+            ' spend on <span class="fw-bold">' +
+            value.Offers +
+            "</span></p></div></div></div>"
+        );
+      }
     });
   }
 );
@@ -30,15 +40,25 @@ $(document).ready(function () {
       function (data) {
         $.each(data, function (key, value) {
           if (value.Offers.search(expression) != -1) {
-            $("#offers").append(
-              '<div class="pt-3"><div class="card" style="height:7rem;"><div class="card-body"><p class="card-title fw-bold text-orange">' +
-                value.Get +
-                ' points</p><p class="card-text"> For every ' +
-                value.Buy +
-                'spend on <span class="fw-bold">' +
-                value.Offers +
-                "</span></p></div></div></div>"
-            );
+            if (typeof value.Buy == "undefined") {
+              $("#offers").append(
+                '<div class="pt-3"><div class="card" style="height:7rem;"><div class="card-body"><p class="card-title fw-bold text-orange">' +
+                  value.Get +
+                  ' points</p><p class="card-text"><span class="fw-bold">' +
+                  value.Offers +
+                  "</span></p></div></div></div>"
+              );
+            } else {
+              $("#offers").append(
+                '<div class="pt-3"><div class="card" style="height:7rem;"><div class="card-body"><p class="card-title fw-bold text-orange">' +
+                  value.Get +
+                  ' points</p><p class="card-text"> For every ' +
+                  value.Buy +
+                  ' spend on <span class="fw-bold">' +
+                  value.Offers +
+                  "</span></p></div></div></div>"
+              );
+            }
           }
         });
       }
