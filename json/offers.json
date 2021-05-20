@@ -45,8 +45,22 @@
         "Get": "600"
     },
     {
+        "Offers": "Hygrade Weiners",
+        "Buy": "$4 ",
+        "Get": "200"
+    },
+    {
         "Offers": "Iceberg Lettuce",
         "Get": "300"
+    },
+    {
+        "Offers": "L Extra Camembert",
+        "Get": "1,000"
+    },
+    {
+        "Offers": "Lactantcia Butter or Margarine",
+        "Buy": "$3 ",
+        "Get": "600"
     },
     {
         "Offers": "Lemons",
@@ -72,6 +86,11 @@
         "Offers": "no name Butter",
         "Buy": "$3 ",
         "Get": "600"
+    },
+    {
+        "Offers": "no name Canned Chicken or Beef Broth",
+        "Buy": "$1 ",
+        "Get": "200"
     },
     {
         "Offers": "no name Food Storage Containers",
@@ -175,6 +194,10 @@
         "Offers": "PC Packaged Mushrooms",
         "Buy": "$2 ",
         "Get": "400"
+    },
+    {
+        "Offers": "PC Pork Ribs",
+        "Get": "2,200"
     },
     {
         "Offers": "PC Roast or Ground Coffee",
