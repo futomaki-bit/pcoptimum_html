@@ -45,6 +45,10 @@
         "Get": "600"
     },
     {
+        "Offers": "Iceberg Lettuce",
+        "Get": "300"
+    },
+    {
         "Offers": "Lemons",
         "Buy": "$1 ",
         "Get": "200"
@@ -85,6 +89,10 @@
         "Get": "600"
     },
     {
+        "Offers": "Nong Shim Instant Noodles",
+        "Get": "200"
+    },
+    {
         "Offers": "Oranges",
         "Buy": "$1 ",
         "Get": "200"
@@ -117,6 +125,10 @@
     {
         "Offers": "PC Chocolate",
         "Buy": "$3 ",
+        "Get": "600"
+    },
+    {
+        "Offers": "PC Cookies",
         "Get": "600"
     },
     {
@@ -193,6 +205,10 @@
         "Offers": "Tomatoes",
         "Buy": "$1 ",
         "Get": "200"
+    },
+    {
+        "Offers": "Tostitos Tortilla Chips or Salsa",
+        "Get": "600"
     },
     {
         "Offers": "Ziploc Bags",
