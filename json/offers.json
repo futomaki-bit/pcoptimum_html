@@ -10,19 +10,9 @@
         "Get": "200"
     },
     {
-        "Offers": "Colgate Oral Care Products",
-        "Buy": "$4 ",
-        "Get": "800"
-    },
-    {
         "Offers": "Deli Meat Including Service Counter",
         "Buy": "$1 ",
         "Get": "200"
-    },
-    {
-        "Offers": "D'italiano Products",
-        "Buy": "$2 ",
-        "Get": "400"
     },
     {
         "Offers": "Fresh Beef",
@@ -30,37 +20,14 @@
         "Get": "200"
     },
     {
-        "Offers": "Gadoua Bread",
-        "Buy": "$2 ",
-        "Get": "400"
-    },
-    {
         "Offers": "Grapes",
         "Buy": "$1 ",
         "Get": "200"
     },
     {
-        "Offers": "Herbal Essences",
-        "Buy": "$3 ",
-        "Get": "600"
-    },
-    {
         "Offers": "Hygrade Weiners",
         "Buy": "$4 ",
         "Get": "200"
-    },
-    {
-        "Offers": "Iceberg Lettuce",
-        "Get": "300"
-    },
-    {
-        "Offers": "L Extra Camembert",
-        "Get": "1,000"
-    },
-    {
-        "Offers": "Lactantcia Butter or Margarine",
-        "Buy": "$3 ",
-        "Get": "600"
     },
     {
         "Offers": "Lemons",
@@ -83,29 +50,9 @@
         "Get": "200"
     },
     {
-        "Offers": "no name Butter",
-        "Buy": "$3 ",
-        "Get": "600"
-    },
-    {
         "Offers": "no name Canned Chicken or Beef Broth",
         "Buy": "$1 ",
         "Get": "200"
-    },
-    {
-        "Offers": "no name Food Storage Containers",
-        "Buy": "$2 ",
-        "Get": "400"
-    },
-    {
-        "Offers": "no name Garbage Bags",
-        "Buy": "$4 ",
-        "Get": "800"
-    },
-    {
-        "Offers": "no name Plastic Wrap",
-        "Buy": "$3 ",
-        "Get": "600"
     },
     {
         "Offers": "Nong Shim Instant Noodles",
@@ -122,9 +69,52 @@
         "Get": "200"
     },
     {
-        "Offers": "PC Blue Menu Eggs",
-        "Buy": "$3 ",
-        "Get": "600"
+        "Offers": "PC Blue Menu Popcorn",
+        "Buy": "$1 ",
+        "Get": "200"
+    },
+    {
+        "Offers": "PC or no name Ready to Serve Soup",
+        "Buy": "$1 ",
+        "Get": "200"
+    },
+    {
+        "Offers": "Potatoes",
+        "Buy": "$1 ",
+        "Get": "200"
+    },
+    {
+        "Offers": "Rooster Luncheon Meat",
+        "Buy": "$1 ",
+        "Get": "200"
+    },
+    {
+        "Offers": "Tomatoes",
+        "Buy": "$1 ",
+        "Get": "200"
+    },
+    {
+        "Offers": "Iceberg Lettuce",
+        "Get": "300"
+    },
+    {
+        "Offers": "Pineapple",
+        "Get": "300"
+    },
+    {
+        "Offers": "D'italiano Products",
+        "Buy": "$2 ",
+        "Get": "400"
+    },
+    {
+        "Offers": "Gadoua Bread",
+        "Buy": "$2 ",
+        "Get": "400"
+    },
+    {
+        "Offers": "no name Food Storage Containers",
+        "Buy": "$2 ",
+        "Get": "400"
     },
     {
         "Offers": "PC Blue Menu Peanut Butter",
@@ -132,43 +122,9 @@
         "Get": "400"
     },
     {
-        "Offers": "PC Blue Menu Popcorn",
-        "Buy": "$1 ",
-        "Get": "200"
-    },
-    {
-        "Offers": "PC Cereal",
-        "Buy": "$3 ",
-        "Get": "600"
-    },
-    {
-        "Offers": "PC Chocolate",
-        "Buy": "$3 ",
-        "Get": "600"
-    },
-    {
-        "Offers": "PC Cookies",
-        "Get": "600"
-    },
-    {
         "Offers": "PC Fabric Softener or Dryer Sheets",
         "Buy": "$2 ",
         "Get": "400"
-    },
-    {
-        "Offers": "PC Frozen Beef Burgers",
-        "Buy": "$9 ",
-        "Get": "1,800"
-    },
-    {
-        "Offers": "PC Frozen Fish",
-        "Buy": "$8 ",
-        "Get": "1,600"
-    },
-    {
-        "Offers": "PC Frozen Pizza",
-        "Buy": "$4 ",
-        "Get": "800"
     },
     {
         "Offers": "PC Granola Bars",
@@ -186,23 +142,9 @@
         "Get": "400"
     },
     {
-        "Offers": "PC or no name Ready to Serve Soup",
-        "Buy": "$1 ",
-        "Get": "200"
-    },
-    {
         "Offers": "PC Packaged Mushrooms",
         "Buy": "$2 ",
         "Get": "400"
-    },
-    {
-        "Offers": "PC Pork Ribs",
-        "Get": "2,200"
-    },
-    {
-        "Offers": "PC Roast or Ground Coffee",
-        "Buy": "$6 ",
-        "Get": "1,200"
     },
     {
         "Offers": "PC Soft Drinks and Sparkling Soda",
@@ -210,24 +152,58 @@
         "Get": "400"
     },
     {
-        "Offers": "Potatoes",
-        "Buy": "$1 ",
-        "Get": "200"
-    },
-    {
-        "Offers": "Rooster Luncheon Meat",
-        "Buy": "$1 ",
-        "Get": "200"
-    },
-    {
         "Offers": "Rooster Rice",
         "Buy": "$2 ",
         "Get": "400"
     },
     {
-        "Offers": "Tomatoes",
-        "Buy": "$1 ",
-        "Get": "200"
+        "Offers": "Farmer's Market Muffins",
+        "Buy": "$2 ",
+        "Get": "400"
+    },
+    {
+        "Offers": "Gadoua Bread, Rolls, Bagels and Tortillas",
+        "Buy": "$2 ",
+        "Get": "400"
+    },
+    {
+        "Offers": "Herbal Essences",
+        "Buy": "$3 ",
+        "Get": "600"
+    },
+    {
+        "Offers": "Lactantcia Butter or Margarine",
+        "Buy": "$3 ",
+        "Get": "600"
+    },
+    {
+        "Offers": "no name Butter",
+        "Buy": "$3 ",
+        "Get": "600"
+    },
+    {
+        "Offers": "no name Plastic Wrap",
+        "Buy": "$3 ",
+        "Get": "600"
+    },
+    {
+        "Offers": "PC Blue Menu Eggs",
+        "Buy": "$3 ",
+        "Get": "600"
+    },
+    {
+        "Offers": "PC Cereal",
+        "Buy": "$3 ",
+        "Get": "600"
+    },
+    {
+        "Offers": "PC Chocolate",
+        "Buy": "$3 ",
+        "Get": "600"
+    },
+    {
+        "Offers": "PC Cookies",
+        "Get": "600"
     },
     {
         "Offers": "Tostitos Tortilla Chips or Salsa",
@@ -237,5 +213,53 @@
         "Offers": "Ziploc Bags",
         "Buy": "$3 ",
         "Get": "600"
+    },
+    {
+        "Offers": "Irish Spring Products",
+        "Buy": "$3 ",
+        "Get": "600"
+    },
+    {
+        "Offers": "Palmolive Dish Soap",
+        "Buy": "$3 ",
+        "Get": "600"
+    },
+    {
+        "Offers": "Colgate Oral Care Products",
+        "Buy": "$4 ",
+        "Get": "800"
+    },
+    {
+        "Offers": "no name Garbage Bags",
+        "Buy": "$4 ",
+        "Get": "800"
+    },
+    {
+        "Offers": "PC Frozen Pizza",
+        "Buy": "$4 ",
+        "Get": "800"
+    },
+    {
+        "Offers": "L Extra Camembert",
+        "Get": "1,000"
+    },
+    {
+        "Offers": "PC Roast or Ground Coffee",
+        "Buy": "$6 ",
+        "Get": "1,200"
+    },
+    {
+        "Offers": "PC Frozen Fish",
+        "Buy": "$8 ",
+        "Get": "1,600"
+    },
+    {
+        "Offers": "PC Frozen Beef Burgers",
+        "Buy": "$9 ",
+        "Get": "1,800"
+    },
+    {
+        "Offers": "PC Pork Ribs",
+        "Get": "2,200"
     }
 ]
