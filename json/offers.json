@@ -39,6 +39,11 @@
         "Get": "400"
     },
     {
+        "Offers": "Fleecy Fabric Softener",
+        "Buy": "$5 ",
+        "Get": "1,000"
+    },
+    {
         "Offers": "Fresh Beef",
         "Buy": "$1 ",
         "Get": "200"
@@ -100,6 +105,11 @@
         "Offers": "Life Brand Toothbrush of Floss products",
         "Buy": "$1 ",
         "Get": "200"
+    },
+    {
+        "Offers": "Listerine Products",
+        "Buy": "$7 ",
+        "Get": "1,500"
     },
     {
         "Offers": "no name Baking Coconut",
@@ -220,6 +230,11 @@
         "Get": "400"
     },
     {
+        "Offers": "PC Maple Syrup",
+        "Buy": "$4 ",
+        "Get": "800"
+    },
+    {
         "Offers": "PC or no name Ready to Serve Soup",
         "Buy": "$1 ",
         "Get": "200"
@@ -280,6 +295,10 @@
         "Offers": "Van Houtte Whole Bean or Ground Coffee",
         "Buy": "$6 ",
         "Get": "1,200"
+    },
+    {
+        "Offers": "Watermelon",
+        "Get": "500"
     },
     {
         "Offers": "Ziploc Bags",
