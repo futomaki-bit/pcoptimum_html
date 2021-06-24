@@ -15,7 +15,7 @@ Link: [futomakiyoin.github.io/pcoptimum_html/](https://futomakiyoin.github.io/pc
 
 ![demo2.png](demo/demo2.png)
 
-Some offers do not have enough description on them. For example with Iceberg Lettuce the offer gives 300 points per Iceberg Lettuce bought.
+Some offers do not have enough description on them. For example with **Iceberg Lettuce** the offer gives **300 points** per **Iceberg Lettuce** bought.
 
 ## Goal:
 - Add json content to webpage ✅
