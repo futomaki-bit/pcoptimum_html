@@ -24,7 +24,7 @@ $.getJSON(
           value.Get +
           ' points</p><p class="card-text"> For every ' +
           value.Buy +
-          ' spend on <span class="fw-bold">' +
+          ' spent on <span class="fw-bold">' +
           value.Offers +
           "</span></p></div></div></div>"
         );
@@ -68,7 +68,7 @@ $(document).ready(function () {
                 value.Get +
                 ' points</p><p class="card-text"> For every ' +
                 value.Buy +
-                ' spend on <span class="fw-bold">' +
+                ' spent on <span class="fw-bold">' +
                 value.Offers +
                 "</span></p></div></div></div>";
             }
