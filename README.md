@@ -22,5 +22,5 @@ Some offers do not have enough description on them. For example with **Iceberg L
 - [x] Add search bar
 - [ ] Add images
 
-## Issue:
-- Bad performance
+## Note:
+- *Wholly Guacamole, found in the produce aisle* is as written in the PC app
