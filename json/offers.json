@@ -14,6 +14,11 @@
         "Get": "600"
     },
     {
+        "Offers": "Breads and Rolls Baked in-store",
+        "Buy": "$2 ",
+        "Get": "400"
+    },
+    {
         "Offers": "Colgate Oral Care Products",
         "Buy": "$4 ",
         "Get": "800"
@@ -57,6 +62,10 @@
         "Offers": "Gadoua Bread, Rolls, Bagels and Tortillas",
         "Buy": "$2 ",
         "Get": "400"
+    },
+    {
+        "Offers": "Gattuso Pizza Sauce",
+        "Get": "200"
     },
     {
         "Offers": "Grapes",
@@ -110,6 +119,11 @@
         "Offers": "Listerine Products",
         "Buy": "$7 ",
         "Get": "1,500"
+    },
+    {
+        "Offers": "Natrel Cream",
+        "Buy": "$1 ",
+        "Get": "200"
     },
     {
         "Offers": "no name Baking Coconut",
@@ -288,6 +302,11 @@
         "Get": "600"
     },
     {
+        "Offers": "T&T Products",
+        "Buy": "$3 ",
+        "Get": "600"
+    },
+    {
         "Offers": "Taylor Farms Vegetable Saute Kit",
         "Buy": "$2 ",
         "Get": "400"
@@ -309,6 +328,11 @@
     {
         "Offers": "Watermelon",
         "Get": "500"
+    },
+    {
+        "Offers": "Wholly Guacamole, found in the produce aisle",
+        "Buy": "$2 ",
+        "Get": "200"
     },
     {
         "Offers": "Ziploc Bags",
