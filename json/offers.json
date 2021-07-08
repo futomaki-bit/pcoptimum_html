@@ -19,9 +19,19 @@
         "Get": "400"
     },
     {
+        "Offers": "Campbell's Canned Cooking Soups",
+        "Buy": "$1 ",
+        "Get": "200"
+    },
+    {
         "Offers": "Colgate Oral Care Products",
         "Buy": "$4 ",
         "Get": "800"
+    },
+    {
+        "Offers": "Corn",
+        "Buy": "$1 ",
+        "Get": "200"
     },
     {
         "Offers": "Cucumbers",
@@ -50,6 +60,11 @@
     },
     {
         "Offers": "Fresh Beef",
+        "Buy": "$1 ",
+        "Get": "200"
+    },
+    {
+        "Offers": "Fresh Porc",
         "Buy": "$1 ",
         "Get": "200"
     },
@@ -149,6 +164,11 @@
         "Offers": "no name Garbage Bags",
         "Buy": "$4 ",
         "Get": "800"
+    },
+    {
+        "Offers": "no name Hot Dog or Hamburger Buns",
+        "Buy": "$1 ",
+        "Get": "200"
     },
     {
         "Offers": "no name Plastic Wrap",
@@ -300,6 +320,11 @@
         "Offers": "Speedstick Products",
         "Buy": "$3 ",
         "Get": "600"
+    },
+    {
+        "Offers": "Strawberries",
+        "Buy": "$1 ",
+        "Get": "200"
     },
     {
         "Offers": "T&T Products",
