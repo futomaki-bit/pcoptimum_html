@@ -24,6 +24,10 @@
         "Get": "200"
     },
     {
+        "Offers": "Celery",
+        "Get": "300"
+    },
+    {
         "Offers": "Colgate Oral Care Products",
         "Buy": "$4 ",
         "Get": "800"
